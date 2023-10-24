@@ -1,0 +1,5 @@
+package unit
+
+func TestMySQLConnection(){
+	
+}

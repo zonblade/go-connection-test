@@ -1,0 +1,18 @@
+[
+    {
+        "db":"mysql",
+        "dbName":"",
+        "username":"",
+        "password":"",
+        "host":"",
+        "port":""
+    },
+    {
+        "db":"postgres",
+        "dbName":"",
+        "username":"",
+        "password":"",
+        "host":"",
+        "port":""
+    }
+]

@@ -1,0 +1,6 @@
+package unit
+
+
+func TestMongoDBConnection(){
+	
+}
